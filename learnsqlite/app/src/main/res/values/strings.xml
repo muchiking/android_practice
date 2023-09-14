@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">learnsqlite</string>
+    <string name="hint_name">enter name</string>
+    <string name="hint_cell"> enter cell</string>
+    <string name="btnsubmit">submit</string>
+    <string name="btnshowdata">show data</string>
+    <string name="btn_edit_data">Edit data</string>
+    <string name="btn_delete_data">Delete data</string>
+    <string name="data">Data from database will be displayed here</string>
+</resources>

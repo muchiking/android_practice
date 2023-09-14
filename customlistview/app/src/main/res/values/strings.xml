@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">customlistview</string>
+    <string name="product_heading">products</string>
+</resources>

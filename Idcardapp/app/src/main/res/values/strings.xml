@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Idcardapp</string>
+    <string name="id_hints">Enter id string</string>
+    <string name="submit">Submit</string>
+    <string name="permarnet_resident">permarnet resident</string>
+    <string name="citizen">SA Citizen</string>
+    <string name="males">males</string>
+</resources>
